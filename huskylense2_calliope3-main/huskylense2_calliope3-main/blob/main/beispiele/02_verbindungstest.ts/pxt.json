@@ -1,0 +1,23 @@
+{
+    "name": "huskylense2_calliope3-blob-main-beispiele-02_verbindungstestts",
+    "dependencies": {
+        "core": "*",
+        "huskylense2_calliope3": "github:simonprell-dev/huskylense2_calliope3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.11",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}

@@ -1,0 +1,7 @@
+**/node_modules/
+**/pxt_modules/
+**/built/
+**/.codex-example-builds*/
+**/package-lock.json
+**/package.json
+**/tsconfig.json

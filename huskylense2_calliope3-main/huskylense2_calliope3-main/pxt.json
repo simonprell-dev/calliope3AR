@@ -1,0 +1,24 @@
+{
+    "name": "huskylens2-calliope3",
+    "version": "1.0.0",
+    "description": "HUSKYLENS 2 MakeCode extension adapted for Calliope mini 3 (I2C).",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "huskylens2_protocol.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}
