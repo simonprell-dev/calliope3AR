@@ -1,8 +1,0 @@
-makecode:
-  target: calliopemini
-  platform: calliopemini
-  home_url: https://makecode.calliope.cc/
-theme: jekyll-theme-slate
-include:
-  - assets
-  - README.md
